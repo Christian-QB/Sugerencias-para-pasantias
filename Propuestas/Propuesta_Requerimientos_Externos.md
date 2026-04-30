@@ -990,7 +990,7 @@ Estilos propios del módulo.
 ### Fase 1: Validación de la propuesta
 
 ```text
-Revisar alcance con jefatura.
+Revisar alcance con el Ing Villalva.
 Confirmar tablas necesarias.
 Confirmar campos obligatorios.
 Confirmar si se requiere facturación desde la primera versión.
@@ -1056,7 +1056,7 @@ Sincronizar información de soporte.
 
 ## 21. Decisiones pendientes para revisión con jefatura
 
-Antes de desarrollar, se recomienda confirmar:
+Antes de desarrollar, porfavor confirmar:
 
 ```text
 ¿El módulo será exclusivo para el área de sistemas?
